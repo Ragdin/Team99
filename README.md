@@ -8,29 +8,23 @@ Takım 99
 ## Takım Elemanları
 
 - Nisa Nur Elmas: Product Owner
-- Berker Gündoğdu: Scrum Master
-- Tarık Hatipoğlu: Team Member/Developer
-- Muhammet Serdar Sağır: Team Member/Developer
+- Muhammet Serdar Sağır: Scrum Master/Developer
 - Ümran Kayacık: Team Member/Developer
 
 ## Ürün İsmi
 
---TBD--
+Blue Jelly
 
 ## Ürün Açıklaması
 
-- Oyunumuzu her levelda zorlaşan AI'a karşı her level başında verilen weapon ve skill kombinasyonlarını tercihen seçerek ilerlenmeye çalışılan, tek seferde tüm levelların sonuna ulaşılmaya çalışılan incremental level design şeklinde tasarlıyoruz.
+- 2d Platform oyunu
 
 ## Ürün Özellikleri
 
-- Her levelda güçlenen AI
-- Her levelda seçilmesi gereken yeni weapon ve skill kombinasyonları
-- Her 10 levelda bir karşılaşılması gereken boss AI
-- One life, multiple levels
+2d Çizgisel boyutta ilerleyen platform oyunu
 
 ## Hedef Kitle
 
-- Mobile gamers
 - Casual gamers
 - 15 - 65 yaş arası mobile gamers
 
