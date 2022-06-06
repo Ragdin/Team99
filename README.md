@@ -34,7 +34,7 @@ Blue Jelly
 
 ---
 
-# Sprint 1
+# Sprintler
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
@@ -49,9 +49,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true) (Not: daily scrum toplantı detaylarımızı paylaşacağız.)
 
 - **Sprint board update**: (Güncel screenshotlar paylaşılacaktır) Sprint board screenshotları: 
-[sprint1](https://user-images.githubusercontent.com/105319872/172181887-3f05cb35-c5aa-4df4-a130-6ff1a6e450c9.png)
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+![sprint1](https://user-images.githubusercontent.com/105319872/172181887-3f05cb35-c5aa-4df4-a130-6ff1a6e450c9.png)
+![sprint2](https://user-images.githubusercontent.com/105319872/172182142-ae3e6d95-f6aa-446b-a472-ab8482c12f4f.png)
+![sprint3](https://user-images.githubusercontent.com/105319872/172182288-8878f79b-707e-4340-8374-4bffa0f4f04f.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
