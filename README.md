@@ -53,10 +53,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![sprint2](https://user-images.githubusercontent.com/105319872/172182142-ae3e6d95-f6aa-446b-a472-ab8482c12f4f.png)
 ![sprint3](https://user-images.githubusercontent.com/105319872/172182288-8878f79b-707e-4340-8374-4bffa0f4f04f.png)
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: 
+- ![7](https://user-images.githubusercontent.com/105319872/172182483-9e4ee240-a41a-4f2e-aab5-fcb98f146ead.png)
 
 - **Sprint Review**: 
-Sprint review toplantı detayları paylaşılacaktır.
+Oyun 2d cobat iken 2d platform olarak değiştirilmiştir 
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
