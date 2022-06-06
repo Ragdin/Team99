@@ -60,9 +60,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 Oyun 2d cobat iken 2d platform olarak değiştirilmiştir 
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Projeyi bırakan ekip arkadaşlarından dolayı artan iş yükünün paylaşılması
+  - proje toplantılarına katılım sağlanması eğer katılım bu şekilde sıfır olursa projenin daha basit ve daha hızlı bir ürün elde etmeyi amaçlaması
+  - 
 
 -**Diğer Notlar**:
 - N/A
