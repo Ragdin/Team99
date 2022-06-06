@@ -1,4 +1,3 @@
-# Team99
 # **Takım İsmi**
 
 Takım 99
